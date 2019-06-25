@@ -7,3 +7,4 @@ Click [Here](https://www.udemy.com/unrealcourse) to access the course.
 ## Lecture List
 * BT01 Intro, notes & Assets
 * BT02 GameDesign Document (GDD)
+* BT03 Setting Up a Github "Repo"
